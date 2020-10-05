@@ -1,2 +1,3 @@
 b1 branch===++
 color=orange
+type=sedan
