@@ -1,4 +1,3 @@
-Mod from master_1 from NB branchs
 Master text edited
 Second line
 Thrird line
