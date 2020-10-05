@@ -1,1 +1,3 @@
 Master text edited
+Second line
+Thrird line
